@@ -42,4 +42,17 @@ Step by step:
 Another thing to do:
 - last coat before painting: plastic-dip. Gives it a nice texture and feeling. 1 or 2 coats, don’t go on too heavy in any area (I triple checked, he indeed put this on BEFORE paint). 30 min between coats
 
+## VaultFox (2023)
 
+- Dupicolor Primer, deep scratches, red oxide version
+- 3M spot fill (rather than bondo?)
+- Between 80-120 grit sandpaper, first sanding. Should probably start with 80 as the first pass (good for .2mm prints)
+- If already did 80, can then do a pass with 120
+- - wipe down print, can use a makeup brush
+- add duplicolor primer, wet and thick coat. This primer is the key to her new method. Dry for 1 hour
+- 240-320 grit sandpaper, concentrate on the high spots. Need to get a feel for it.
+- For any large layer lines or imperfections, now use the 3M spot putty (or bondo)
+- after sanding and spot putty has dried (she didnt say anything about sanding the 3M before this), add another coat of cuplicolor primer
+- 2 layers of that primer is usually enough to get ride of all lines! This is the second layer.
+- Wet sand
+- 
