@@ -3,7 +3,7 @@
 
 ## Frankly Built
 
-CURIA SETTINGS:
+CURA SETTINGS:
 - 5-10% infill with gyroid infill
 - Speed: 50-70% on the Ender (bigger prints should probably go slower, not sure about the SR)
 - Travel: extraction and z-hop on (I think he had this off later)
