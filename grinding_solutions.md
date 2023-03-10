@@ -14,4 +14,5 @@
   (RUN_CURRENT= 2.0 and STEALTHCHOP THRESHOLD = 0, but make sure to leave extruder current alone at 0.9)
 - Turn off acceleration and jerk in Cura (because Klipper controls it)
 - use PrusaSlicer
+- increase print temp (220)
 
