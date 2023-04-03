@@ -24,6 +24,8 @@ Magigoo MO2016 All-in-One 3D Printer Adhesive Glue: (https://a.co/d/2t4h3ja)
 
 3DLAC 3D Printing 3D Printer Adhesive for Adhesion to Heated Print Bed, Spray: (https://a.co/d/1jTBnei)
 
+3D Printer Adhesive Glue Bed Weld Original: (https://www.amazon.com/Printer-Adhesive-Layerneer-Original-Filament/dp/B079984GV5)
+
 ## GREASE
 
 Permatex 80345 White Lithium Grease: (https://www.amazon.com/dp/B000HBNV58?psc=1&ref=ppx_yo2ov_dt_b_product_details)
