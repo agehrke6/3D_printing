@@ -1,6 +1,6 @@
 # Compiling suggestions for upgrades
 
-## Nozzle
+## NOZZLE
 
 For non-abrasives: Bondtech CHT Vol Coated Brass Nozzle (https://www.bondtech.se/product/bondtech-cht-volcano-coated-brass-nozzle/)
 
@@ -12,15 +12,33 @@ Diamondback, the "last nozzle you will ever need", but also not "high flow" (htt
 
 Micro Swiss Plated Wear Resistant High Flow Volcano Compatible (https://tinyurl.com/yz54evv6)
 
-## wire covers
+## WIRE COVERS
+
+30ft PET Expandable Sleeving Wire Cable Sleeve (2/5" Gold&Black 30ft): (https://a.co/d/29C0QTP)
 
 Sonoreboom Braided-Wiring-Loom Black Mesh Woven Split-Sleeves for Automotive/Electrical/Multi-Cable Strings Cabling Management Protector Covering (1/2" - 28 Feet): (https://www.amazon.com/dp/B0BJ28MWXB?ref_=cm_sw_r_apin_dp_AFNFYBHZHM3G8EQTJJRB)
 
-## plate adhesion
+## PLATE ADHESION
 
 Magigoo MO2016 All-in-One 3D Printer Adhesive Glue: (https://a.co/d/2t4h3ja)
 
 3DLAC 3D Printing 3D Printer Adhesive for Adhesion to Heated Print Bed, Spray: (https://a.co/d/1jTBnei)
+
+## GREASE
+
+Permatex 80345 White Lithium Grease: (https://www.amazon.com/dp/B000HBNV58?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+FYSETC 3D Printer Parts Gear Grease Reduce Noise Multi-Purpose Industrial Lubricants Oil: (https://a.co/d/6jvHP6K)
+
+## BELTS
+
+BIQU GATES-LL-2GT GT2-6mm High Quality Open Timing Belt Width 6mm 10mm For Reprap 3D Printer Parts (get 10mm) (https://tinyurl.com/2wvekxzu)
+
+Belts for Q5/SR/V400: (https://www.creality3dparts.com/product/belts-for-q5-sr-v400/)
+
+## PLATE
+
+ENERGETIC Upgrade Flsun V400 3D Printer Build Plate Round Dia 309 Textured/Smooth PEI Magnetic Spring Steel Flex Bed (Get "textured and smoothed): (https://www.aliexpress.us/item/3256804518506131.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
 
 
