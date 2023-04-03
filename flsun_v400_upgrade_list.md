@@ -40,6 +40,8 @@ Belts for Q5/SR/V400: (https://www.creality3dparts.com/product/belts-for-q5-sr-v
 
 ENERGETIC Upgrade Flsun V400 3D Printer Build Plate Round Dia 309 Textured/Smooth PEI Magnetic Spring Steel Flex Bed (Get "textured and smoothed): (https://www.aliexpress.us/item/3256804518506131.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
+Alternatively, can add own pei, pex or peo surface to the build plate (may need to scuff first)(via Zac Wagz Wagner on FB group)
+
 ## HOT END
 
 Trianglelab 115W High Power CHC Pro Kit Ceramic Heating Core Quick Heating (https://www.trianglelab.net/products/chc-pro-hotend?VariantsId=10271)
