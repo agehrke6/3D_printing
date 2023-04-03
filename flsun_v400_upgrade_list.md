@@ -48,4 +48,10 @@ Trianglelab 115W High Power CHC Pro Kit Ceramic Heating Core Quick Heating (http
 
 V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/products/v6-titanium-alloy-bi-metal-heatbreak?VariantsId=10134)
 
+## EXTRUDER GEARS
+
+FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+
+
+
 
