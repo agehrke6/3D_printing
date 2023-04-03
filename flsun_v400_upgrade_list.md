@@ -50,7 +50,9 @@ V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/
 
 ## EXTRUDER GEARS
 
-FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one. Or need needle bearings 5mm OD 3mm ID): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+
+Reversed Integrated Drive Gear Assembly for HextrudORT extruder (need 2 4x9x4mm bearings, as stock ones are too big): (https://www.bondtech.se/product/bmg-reverse-integrated-drive-gear-assembly/)
 
 
 
