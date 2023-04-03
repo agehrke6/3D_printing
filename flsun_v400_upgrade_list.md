@@ -20,5 +20,7 @@ Sonoreboom Braided-Wiring-Loom Black Mesh Woven Split-Sleeves for Automotive/Ele
 
 Magigoo MO2016 All-in-One 3D Printer Adhesive Glue: (https://a.co/d/2t4h3ja)
 
+3DLAC 3D Printing 3D Printer Adhesive for Adhesion to Heated Print Bed, Spray: (https://a.co/d/1jTBnei)
+
 
 
