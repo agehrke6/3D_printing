@@ -72,5 +72,5 @@ Probe holder: (https://www.printables.com/model/424624-flsun-v400-probe-holder-e
 
 FLSUN V400 reduced noise fan cover (dual color possible): (https://www.printables.com/model/435295-flsun-v400-fan-cover-reduced-noise)
 
-
+low noise/improved airflow cover: (https://cults3d.com/en/3d-model/tool/optimierte-geraeuscharme-luefterabdeckung-flsun-v400)
 
