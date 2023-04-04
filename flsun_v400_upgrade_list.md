@@ -66,5 +66,11 @@ Original Volcano Silicone Socks Heater Block Cartridge Type Silicone V6 J-head: 
 
 Artillery sidewinder socks fit as well
 
+## PRINTABLES
+
+Probe holder: (https://www.printables.com/model/424624-flsun-v400-probe-holder-extrusion-fit)
+
+FLSUN V400 reduced noise fan cover (dual color possible): (https://www.printables.com/model/435295-flsun-v400-fan-cover-reduced-noise)
+
 
 
