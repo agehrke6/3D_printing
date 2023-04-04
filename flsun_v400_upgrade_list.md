@@ -62,8 +62,9 @@ Reversed Integrated Drive Gear Assembly for HextrudORT extruder (need 2 4x9x4mm 
 
 ## SILICONE SOCK
 
-Origina Volcano Silicone Socks Heater Block Cartridge Type Silicone V6 J-head: (https://www.aliexpress.us/item/2255800043972204.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+Original Volcano Silicone Socks Heater Block Cartridge Type Silicone V6 J-head: (https://www.aliexpress.us/item/2255800043972204.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
+Artillery sidewinder socks fit as well
 
 
 
