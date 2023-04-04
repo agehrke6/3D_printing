@@ -42,6 +42,8 @@ Belts for Q5/SR/V400: (https://www.creality3dparts.com/product/belts-for-q5-sr-v
 
 ENERGETIC Upgrade Flsun V400 3D Printer Build Plate Round Dia 309 Textured/Smooth PEI Magnetic Spring Steel Flex Bed (Get "textured and smoothed): (https://www.aliexpress.us/item/3256804518506131.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
+PEX Build Surface: (https://whambam3d.com/products/add-on-pex-build-surface-165-x-165?fbclid=IwAR2YiFYdeF9YooA0nXI1iHSw7XhoQ-53hxQRX_FXnjpmpvpazY6b8lrR1xo)
+
 Alternatively, can add own pei, pex or peo surface to the build plate (may need to scuff first)(via Zac Wagz Wagner on FB group)
 
 ## HOT END
@@ -57,6 +59,10 @@ V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/
 FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one. Or need needle bearings 5mm OD 3mm ID): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
 Reversed Integrated Drive Gear Assembly for HextrudORT extruder (need 2 4x9x4mm bearings, as stock ones are too big): (https://www.bondtech.se/product/bmg-reverse-integrated-drive-gear-assembly/)
+
+## SILICONE SOCK
+
+Origina Volcano Silicone Socks Heater Block Cartridge Type Silicone V6 J-head: (https://www.aliexpress.us/item/2255800043972204.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
 
 
