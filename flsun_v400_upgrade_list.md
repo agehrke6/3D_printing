@@ -80,3 +80,5 @@ FLSUN V400 reduced noise fan cover (dual color possible): (https://www.printable
 
 low noise/improved airflow cover: (https://cults3d.com/en/3d-model/tool/optimierte-geraeuscharme-luefterabdeckung-flsun-v400)
 
+Arm spreader make socket lubrication easier: (https://cults3d.com/en/3d-model/various/ecarteur-de-bras-v400)
+
