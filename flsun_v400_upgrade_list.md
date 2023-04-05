@@ -62,7 +62,8 @@ Reversed Integrated Drive Gear Assembly for HextrudORT extruder (need 2 4x9x4mm 
 
 Bondtech LGX Lite Extruder: (https://www.amazon.com/Bondtech-LGX-Lite-Extruder/dp/B09T3VWL71/ref=sr_1_4?crid=2YJTVJ7H5GSUA&keywords=Bondtech+LGX&qid=1680708701&sprefix=bondtech+lgx%2Caps%2C174&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
 
-Bondtech LGX Lite extruder mount: (https://www.printables.com/en/model/395629-bondtech-lgx-lite-adapter-flsun-v400/comments)
+Bondtech LGX Lite extruder mount, including info on printer changes: (https://www.printables.com/en/model/395629-bondtech-lgx-lite-adapter-flsun-v400/comments)
+
 
 ## SILICONE SOCK
 
