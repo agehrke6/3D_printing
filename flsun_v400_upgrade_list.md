@@ -54,7 +54,7 @@ Trianglelab 115W High Power CHC Pro Kit Ceramic Heating Core Quick Heating (http
 
 V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/products/v6-titanium-alloy-bi-metal-heatbreak?VariantsId=10134)
 
-## EXTRUDER/EXTRUDER GEARS
+## EXTRUDER/EXTRUDER GEARS/STEPPER
 
 FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one. Or need needle bearings 5mm OD 3mm ID): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
@@ -64,6 +64,7 @@ Bondtech LGX Lite Extruder: (https://www.amazon.com/Bondtech-LGX-Lite-Extruder/d
 
 Bondtech LGX Lite extruder mount, including info on printer changes: (https://www.printables.com/en/model/395629-bondtech-lgx-lite-adapter-flsun-v400/comments)
 
+Bondtech LDO Ø36mm Round 20mm Pancake Motor36STH20-1004AHG (https://www.bondtech.se/product/ldo-nema14-round-20mm-pancake-motor/?gclid=Cj0KCQjwuLShBhC_ARIsAFod4fIiA71acLY2FPRwNifn7HVnof06QOvjjtN3beBVpU7tyeAUzIYHC9IaAsqQEALw_wcB)
 
 ## SILICONE SOCK
 
