@@ -50,9 +50,17 @@ Alternatively, can add own pei, pex or peo surface to the build plate (may need 
 
 Trianglelab 115W High Power CHC Pro Kit Ceramic Heating Core Quick Heating (https://www.trianglelab.net/products/chc-pro-hotend?VariantsId=10271)
 
+High Temperature Plated Copper Heater Block (https://www.amazon.com/dp/B08NV8JHNJ?ref_=cm_sw_r_apin_dp_3R0A0NB5ANCWXAG8EVDC&fbclid=IwAR3x6HzRqSUgrDYxJQ2czxEDuS8x1rcoGaKnyK2YOFYaBI7j1F2cQsjPp2A&th=1)
+
+Xiatiaosann Heater Cartridge Tube 3D Printer 24V 70W High Temperature Hotend (https://www.amazon.com/dp/B09MSZZJ51?ref_=cm_sw_r_apin_dp_QMGQBXJHWK3GJA4P6W27&fbclid=IwAR3eHojqfXjDfYRUecAHAYi7PN03cWcB6TgezqhXq_LGVlUFQxMHhj6vxMo)
+
+Make sure to run PID tune after swapping any hardware
+
 ## HEAT BREAK
 
 V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/products/v6-titanium-alloy-bi-metal-heatbreak?VariantsId=10134)
+
+Upgrade Smooth BiMetal Heatbreak All Metal Titanium Copper Thermal Barrel Tube (https://www.amazon.com/dp/B097N32G38?ref_=cm_sw_r_apin_dp_SDX0HD9F8HA9755GFAM7&fbclid=IwAR2yWr2UvdBoqqYrfRlnLEGAQAaSXot14YwtWO-lYQolasMObHWS-uoAKmQ&th=1)
 
 ## EXTRUDER/EXTRUDER GEARS/STEPPER
 
