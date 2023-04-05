@@ -54,11 +54,15 @@ Trianglelab 115W High Power CHC Pro Kit Ceramic Heating Core Quick Heating (http
 
 V6 Titanium Alloy Bi-Metal Heatbreak (smooth version): (https://trianglelab.net/products/v6-titanium-alloy-bi-metal-heatbreak?VariantsId=10134)
 
-## EXTRUDER GEARS
+## EXTRUDER/EXTRUDER GEARS
 
 FYSETC helical gears (use a roll pin punch to punch out the bushings in the stock idle gear, then use a vice to press them into the new one. Or need needle bearings 5mm OD 3mm ID): (https://www.aliexpress.us/item/3256804880312867.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
 Reversed Integrated Drive Gear Assembly for HextrudORT extruder (need 2 4x9x4mm bearings, as stock ones are too big): (https://www.bondtech.se/product/bmg-reverse-integrated-drive-gear-assembly/)
+
+Bondtech LGX Lite Extruder: (https://www.amazon.com/Bondtech-LGX-Lite-Extruder/dp/B09T3VWL71/ref=sr_1_4?crid=2YJTVJ7H5GSUA&keywords=Bondtech+LGX&qid=1680708701&sprefix=bondtech+lgx%2Caps%2C174&sr=8-4&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+
+Bondtech LGX Lite extruder mount: (https://www.printables.com/en/model/395629-bondtech-lgx-lite-adapter-flsun-v400/comments)
 
 ## SILICONE SOCK
 
