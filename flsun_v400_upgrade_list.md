@@ -90,3 +90,12 @@ low noise/improved airflow cover: (https://cults3d.com/en/3d-model/tool/optimier
 
 Arm spreader make socket lubrication easier: (https://cults3d.com/en/3d-model/various/ecarteur-de-bras-v400)
 
+FLSUN V400 Improved Fanduct: (https://www.printables.com/model/291550-flsun-v400-improved-fanduct?fbclid=IwAR1tzdsiS2reSK-OV7uz5yB0UpygbFLdbMT261s_ShG-T3Yo41PUbwRyK6E)
+
+## RAIL MAINTENENCE
+
+Saiper 2GT Aluminum Timing Belt Idler Pulley (5pcs) Synchronous Wheel 20T 5mm Bore for 10mm Width Timing Belt, 3D Printer Accessories (20T, Bore 5mm, W 10mm, Toothless: (https://www.amazon.ca/dp/B07P7CF1SZ/ref=redir_mobile_desktop/134-1945231-5506121?_encoding=UTF8&fbclid=IwAR1J0AkTxWyx0nmRPFNcL5iehcyDU6HYW2JTvmvZracj757EFaWiJcBRrg8&psc=1&ref=ppx_pop_mob_b_asin_title)
+
+SG15 RS rollers (im no sure about these): (https://www.aliexpress.us/item/2251832596138817.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
+
+
