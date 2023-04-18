@@ -98,4 +98,8 @@ Saiper 2GT Aluminum Timing Belt Idler Pulley (5pcs) Synchronous Wheel 20T 5mm Bo
 
 SG15 RS rollers (im no sure about these): (https://www.aliexpress.us/item/2251832596138817.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US)
 
+## FANS
+
+ACEIRMC 2pcs 5015 3D Printer DC Brushless Blower Cooling Fan for RepRap i3 CR-10 and Other Small Appliances Series Repair Replacement (24V): (https://www.amazon.com/Organizer-Printer-Brushless-Appliances-Replacement/dp/B07R3J8RL6)
+
 
