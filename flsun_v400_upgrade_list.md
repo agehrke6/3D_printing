@@ -102,4 +102,8 @@ SG15 RS rollers (im no sure about these): (https://www.aliexpress.us/item/225183
 
 ACEIRMC 2pcs 5015 3D Printer DC Brushless Blower Cooling Fan for RepRap i3 CR-10 and Other Small Appliances Series Repair Replacement (24V): (https://www.amazon.com/Organizer-Printer-Brushless-Appliances-Replacement/dp/B07R3J8RL6)
 
+## STEPPER MOTOR DAMPER
+
+1Pcs Nema 17 Stepper Motor Damper Silicone Shock Absorber (this can be better than the cork absorber): (https://www.aliexpress.com/i/3256801310732619.html?gatewayAdapt=4itemAdapt)
+
 
