@@ -12,6 +12,8 @@ Diamondback, the "last nozzle you will ever need", but also not "high flow" (htt
 
 Micro Swiss Plated Wear Resistant High Flow Volcano Compatible (https://tinyurl.com/yz54evv6)
 
+Trianglelab's high flow volcano style PCD. The nozzle has a polycrystalline diamond tip, and the Plus version is a CHT style nozzle with three flow chambers. (https://www.aliexpress.us/item/3256805576915238.html)
+
 ## WIRE COVERS
 
 30ft PET Expandable Sleeving Wire Cable Sleeve (2/5" Gold&Black 30ft): (https://a.co/d/29C0QTP)
